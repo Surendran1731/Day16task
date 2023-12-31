@@ -1,0 +1,12 @@
+body{
+  background-color: darkgrey;
+  color: aqua;
+}
+#number{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 100px;
+  color:blue;
+  margin: 250px auto;
+}
